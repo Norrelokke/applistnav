@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "56DB9218-0339-45B3-B202-245F46A60C3A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50AC254C-12B5-4FE9-ABBA-2B313ED63E41"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppListNav/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "50AC254C-12B5-4FE9-ABBA-2B313ED63E41 - b36b634baebe485"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of AppListNav.ContentView.addname : Swift.String"
+                  moduleName = "AppListNav"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikaelanorrelokke/Documents/project/Todo/AppListNav/AppListNav/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "50AC254C-12B5-4FE9-ABBA-2B313ED63E41 - cb5999dda687657f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppListNav.ContentView.addname.getter : Swift.String"
+                  moduleName = "AppListNav"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikaelanorrelokke/Documents/project/Todo/AppListNav/AppListNav/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "21">
+               </Location>
+               <Location
+                  uuid = "50AC254C-12B5-4FE9-ABBA-2B313ED63E41 - bca50e7a2c7e7420"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppListNav.ContentView.addname.setter : Swift.String"
+                  moduleName = "AppListNav"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikaelanorrelokke/Documents/project/Todo/AppListNav/AppListNav/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "50AC254C-12B5-4FE9-ABBA-2B313ED63E41 - 38518d06ca65017"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppListNav.ContentView.addname.modify : Swift.String"
+                  moduleName = "AppListNav"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikaelanorrelokke/Documents/project/Todo/AppListNav/AppListNav/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "50AC254C-12B5-4FE9-ABBA-2B313ED63E41 - 236b2157d1f84882"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppListNav.ContentView.addname.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "AppListNav"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikaelanorrelokke/Documents/project/Todo/AppListNav/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "50AC254C-12B5-4FE9-ABBA-2B313ED63E41 - e13b9a88d282e118"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppListNav.ContentView.$addname.getter : SwiftUI.Binding&lt;Swift.String&gt;"
+                  moduleName = "AppListNav"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikaelanorrelokke/Documents/project/Todo/AppListNav/AppListNav/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "50AC254C-12B5-4FE9-ABBA-2B313ED63E41 - 6be8437673cd51c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of AppListNav.ContentView.init(addname: Swift.String, people: Swift.Array&lt;Swift.String&gt;, letsgo: Swift.Bool) -&gt; AppListNav.ContentView"
+                  moduleName = "AppListNav"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mikaelanorrelokke/Documents/project/Todo/AppListNav/AppListNav/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
